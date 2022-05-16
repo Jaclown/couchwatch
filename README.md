@@ -6,6 +6,7 @@
 
 * La idea de la web es mantener una agenda limpia sin muchos elementos en pantalla donde poder registrar y marcar como pendientes o vistas las series y pelis que desees, con un potente buscador usando la api de TMDB como fuente. Puedes puntuar lo que marques como visto y llevar una agenda muy sencilla y versátil
 
-## Enlace actual: https://cutt.ly/3Hkj4Ul
+## Enlace actual: nycteria.xyz
 
-* Hecha desde 0 por mí
+* Hecha por mí
+
