@@ -1,6 +1,6 @@
 # couchwatch
 
-* Proyecto #1 - Página de registro de películas y series
+* Proyecto #1 - Agenda de películas y series
 
 # Idea
 
